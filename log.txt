@@ -1,1 +1,2 @@
 error logs
+hello it's me!
